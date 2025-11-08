@@ -64,3 +64,9 @@ I implemented data preprocessing, scaling, class weighting, and threshold tuning
 **Rahul Saini**  
 [GitHub](https://github.com/RahulSaini789) | [LinkedIn](https://www.linkedin.com/in/rahul-saini-122321229/)
 
+## 📌 Project Progress Summary
+
+**Key Stages:**  
+Baseline → Scaled Model → Threshold Tuning → Final Metrics  
+
+🔗 [View Final Commit](https://github.com/RahulSaini789/credit-card-fraud-detection/commit/265039d05fbce91bbde5c30388d4257f35466748)
